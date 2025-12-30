@@ -15,7 +15,7 @@ from langchain_core.messages import HumanMessage, AIMessage
 st.set_page_config(page_title="AI Pipeline Agent", layout="wide")
 
 st.title("LangGraph AI Agent")
-st.markdown("Ask me anything about the **Weather** or the **internal Knowledge Base**.")
+st.markdown("Ask me anything about the **Weather** or the **internal Knowledge Base** on most extreme cyclones in history.")
 
 # Initialize session state for messages
 if "messages" not in st.session_state:
