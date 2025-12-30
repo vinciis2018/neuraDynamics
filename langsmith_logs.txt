@@ -1,2 +1,6 @@
 Link 1 = https://smith.langchain.com/public/809f4718-5a4b-4cc0-994f-6902c392acc2/r
 Link 2 = https://smith.langchain.com/public/e7d0277e-cc7e-43e7-ab47-a53a75a8caac/r
+
+Loom Video = https://www.loom.com/share/3bdf2a9c8efc4bba91a22342c35749b7
+
+Deployed Link = https://neuratest.streamlit.app/
